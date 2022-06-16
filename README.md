@@ -60,8 +60,9 @@ WAT CP FT AET
 
 微信：
 
-![Wechat](./Images/BobbyWechat.jpg "Wechat")
+<img src="https://github.com/BobbyZD/IC_Resource/blob/main/Images/BobbyWechat.jpg" width = "200" height = "200"   />
 
 邮箱：
 > bobbyzd888@gmail.com
+> 
 > bobbyzd888@163.com
